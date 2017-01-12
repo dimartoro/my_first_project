@@ -1,2 +1,6 @@
 hola este es mi primer repository change
+<<<<<<< HEAD
 javier
+=======
+diana
+>>>>>>> origin/master
